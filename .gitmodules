@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git://github.com/crew/metrics2-frontend.git
+[submodule "aggregator"]
+	path = aggregator
+	url = git://github.com/crew/metrics2-aggregator.git
